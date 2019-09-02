@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mnav .mar{
+    margin-left: 40%;
+}
+
+#backimg{
+    background-image: url("../img/banner.jpg");
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -200px;
+    background-position: center;
+   
+    text-align: center;
+    /* filter:opacity(20%) */
+    }
+   
+    #backimg .hov:hover{
+        color: gold; 
+        cursor: pointer;
+    }
+    #logoimh{
+        height: 50px;
+        width: 50px;
+    }
+    .batk{
+        margin-right: 70%;
+    }
+    #sss{
+        font-size: 12px;
+    }
+    #coimg{
+        background-image: url("../img/bb.jpg");
+        height: 50vh;
+        /* position: fixed; */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position:  fixed;
+        padding-top: 5%;
+
+    }
+    #coimg2{
+        background-image: url("../img/bg1.jpg");
+        height: 50vh;
+        /* position: fixed; */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position:  fixed;
+        padding-top: 5%;
+
+    }
+    #coimg3{
+        background-image: url("../img/bg2.jpg");
+        height: 50vh;
+        /* position: fixed; */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position:  fixed;
+        padding-top: 5%;
+
+    }
+    #coimg4{
+        background-image: url("../img/bg3.jpg");
+        height: 50vh;
+        /* position: fixed; */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position:  fixed;
+        padding-top: 5%;
+
+    }
+    #coim3g{
+        height: 100%;
+        width: 100%;
+    }
+    #ted{
+        height: 60px;
+        widows: 60px;
+    }
+    #stdimg{
+        background-image: url("../img/testimonials.jpg");
+        height: auto;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -200px;
+        background-position: center;
+        padding-top: 5%;
+        text-align: center;
+    }
+    #tec{
+        height: 50vh;
+    }
+    #maail{
+        height: 70px;
+        width: 70px;
+    }
+    #fooj{
+        background-image: url("../img/footer.jpg");
+        height: auto;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -200px;
+        background-position: center;
+        padding-top: 5%;
+        text-align: center;
+    }
+    .liko{
+        list-style: none;
+        font-size: 20px;
+        color: white;
+        padding-left: 20px;
+    }
